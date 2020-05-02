@@ -1,16 +1,13 @@
 # tic_tac
 
-A new Flutter application.
+A new Flutter application. Finished Game Tic Tac Toe. The design was taken [here](https://flutterawesome.com/tic-tac-toe-game-built-with-flutter/). 
 
-## Getting Started
+## Examples 
 
-This project is a starting point for a Flutter application.
+<p>
+    <img width="205px" alt="Example" src="https://raw.githubusercontent.com/Goraerushenko/Tic-Tac-Toe/master/screenshots/gameProcess.gif"/>
+    <img width="205px" alt="Example" src="https://raw.githubusercontent.com/Goraerushenko/Tic-Tac-Toe/master/screenshots/firstPage.jpg"/>
+    <img width="205px" alt="Example" src="https://raw.githubusercontent.com/Goraerushenko/Tic-Tac-Toe/master/screenshots/choosePage.jpg"/>
+    <img width="205px" alt="Example" src="https://raw.githubusercontent.com/Goraerushenko/Tic-Tac-Toe/master/screenshots/gamePage.jpg"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
