@@ -134,18 +134,17 @@ class _BoardState extends State<Board> with TickerProviderStateMixin{
       widget.whoseMove(currentPlayer);
     } else {
 
-  }
+    }
     if(whoWinner() != ''){
       whoWinner() == 'x' ? xWins++ : oWins++;
       widget.winCallback(xWins, oWins);
     } else if(draw()){
       widget.winCallback(xWins, oWins);
-      widget.currPlayer == 'o' && widget.withBot != null ? arrayOfBorder[Random().nextInt(3)][Random().nextInt(3)] = 'x' : null;
     }
   }
 
   Widget cell(bool left, bool right, bool bottom,int x, int y) => GestureDetector(
-    onTap: (){onTap(x,y);},
+    onTap: () => onTap(x,y),
     child: Container(
       height: 93.3,
       width: 76.6,
