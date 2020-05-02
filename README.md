@@ -1,4 +1,4 @@
-# tic_tac
+# Tic-Tac-Toe
 
 Game Tic Tac Toe on Flutter. The design was taken [here](https://flutterawesome.com/tic-tac-toe-game-built-with-flutter/).
 
